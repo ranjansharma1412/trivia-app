@@ -1,0 +1,6 @@
+module Pods_TriviaApp {
+  umbrella header "Pods-TriviaApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
